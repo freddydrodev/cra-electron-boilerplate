@@ -1,5 +1,5 @@
 {
-  "name": "re-lectron",
+  "name": "cra-electron",
   "version": "1.0.0",
   "description": "Building and Publishing a React Based Electron App From Scratch",
   "private": false,
